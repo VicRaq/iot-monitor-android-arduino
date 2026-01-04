@@ -12,7 +12,7 @@ Un sistema integral que conecta el mundo físico con el digital mediante sensore
 ### 📸 Galería
 Aquí puedes ver la interfaz de la aplicación y el montaje físico.
 
-| Vista de la App | Circuito Conectado |
+| Arduino Uno | Circuito Conectado |
 | :---: | :---: |
 | <img src="./img/20251126_163441.jpg" width="300"> | <img src="./img/20251126_164128.jpg" width="300"> | <img src="./img/20251126_164142.jpg" width="300"> | <img src="./img/20251126_175609.jpg" width="300"> | <img src="./img/20251126_175613.jpg" width="300"> | <img src="./img/20251126_175615.jpg" width="300"> | <img src="./img/20251126_175618.jpg" width="300"> | <img src="./img/20251126_175621.jpg" width="300"> |
 
