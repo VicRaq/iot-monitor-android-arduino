@@ -31,6 +31,4 @@ Aquí puedes ver la interfaz de la aplicación y el montaje físico.
 
 ---
 ### Autor: Víctor Raquileo Rueda
-
 ---
-**Autor:** [Tu Nombre]
