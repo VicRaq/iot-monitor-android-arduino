@@ -6,7 +6,7 @@ Un sistema integral que conecta el mundo físico con el digital mediante sensore
 ### 📺 Demo en Funcionamiento
 ¡Mira el sistema en acción! Haz clic en la imagen para ver el video:
 
-[![Video Demo]]([https://youtu.be/UuXauFxqSsQ](https://drive.google.com/file/d/17_jOSG6u9-Yn5VxzYRXbwo2-z2isewPP/view?usp=sharing)) 
+[![Video Demo]] (https://drive.google.com/file/d/17_jOSG6u9-Yn5VxzYRXbwo2-z2isewPP/view?usp=sharing)) 
 
 ---
 
