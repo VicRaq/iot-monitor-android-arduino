@@ -1,6 +1,6 @@
 # Sistema IoT de Monitoreo con Control Móvil 📱🤖
 
-Un sistema integral que conecta el mundo físico con el digital mediante sensores Arduino y una App Android nativa. Permite visualizar datos en tiempo real y controlar actuadores vía Bluetooth.
+Un sistema integral que conecta el mundo físico con el digital mediante sensores Arduino y una App Android nativa. Permite visualizar datos en tiempo real y controlar actuadores vía Bluetooth. Ideal para mascotas, específicamente de cara a alimentos secos, analizando sus variables. 🐶😺🦆
 
 ### 📺 Demo en Funcionamiento
 ¡Mira el sistema en acción! Haz clic en la imagen para ver el video:
